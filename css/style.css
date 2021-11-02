@@ -128,6 +128,7 @@ img{
 
 h1 {
     color: white;
+    padding-top: 40px;
 }
 
 h2 {
@@ -168,4 +169,17 @@ h5{
     text-align: center;
     color: red;
     font-size: x-large;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+    color: white;
+    background-color: blue;
+    font-size: x-large;
+    position: fixed;
+    bottom: 0;
 }
